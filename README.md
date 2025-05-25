@@ -10,6 +10,8 @@ Proje, Web API yapısı ve katmanlı mimari ile geliştirilmiştir.
 - Onion Architecture
 - Entity Framework Core
 - MSSQL Server
+- JWT Tabanlı Kimlik Doğrulama
+- SMTP ile e-posta doğrulama
 
 ## 📁 Proje Yapısı
 - `IK.Api`: Web API
